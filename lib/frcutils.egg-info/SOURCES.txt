@@ -1,0 +1,14 @@
+README.md
+setup.py
+lib/deployment/__init__.py
+lib/deployment/deploy.py
+lib/frcutils.egg-info/PKG-INFO
+lib/frcutils.egg-info/SOURCES.txt
+lib/frcutils.egg-info/dependency_links.txt
+lib/frcutils.egg-info/entry_points.txt
+lib/frcutils.egg-info/requires.txt
+lib/frcutils.egg-info/top_level.txt
+lib/generation/__init__.py
+lib/generation/magicautonomous.py
+lib/generation/magiccomponent.py
+lib/generation/robotproject.py

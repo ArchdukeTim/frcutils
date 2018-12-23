@@ -1,0 +1,6 @@
+[console_scripts]
+generate-robot = generation.robotproject:generate
+
+[robotpy]
+dep = deployment.deploy:FRCUtilDeploy
+

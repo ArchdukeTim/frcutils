@@ -1,0 +1,21 @@
+Metadata-Version: 1.1
+Name: frcutils
+Version: master
+Summary: Utility library for FRC
+Home-page: https://github.com/frc1418/frcutils
+Author: FRC 1418
+Author-email: robotics1418@gmail.com
+License: MIT
+Description: # FRCUtils
+        
+        ## pyFRC library extension
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Framework :: Robot Framework :: Library
+Classifier: Framework :: Robot Framework :: Tool
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
